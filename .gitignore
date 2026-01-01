@@ -1,0 +1,6 @@
+venv/
+.env
+wallets/
+__pycache__/
+*.pyc
+pid
