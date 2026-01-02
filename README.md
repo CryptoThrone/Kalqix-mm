@@ -16,3 +16,5 @@ Encrypted, multi-wallet market maker runner for Kalqix.
 git clone https://github.com/CryptoThrone/Kalqix-mm.git
 cd Kalqix-mm
 ./install.sh
+source venv/bin/activate
+python manager.py
